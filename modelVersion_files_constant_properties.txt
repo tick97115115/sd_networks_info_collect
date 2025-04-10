@@ -1,0 +1,11 @@
+id
+sizeKB
+name
+type
+pickleScanResult
+pickleScanMessage
+virusScanResult
+virusScanMessage
+scannedAt
+metadata.format
+downloadUrl
